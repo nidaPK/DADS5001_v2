@@ -6,7 +6,7 @@
 2. 6810412004 Wutthichai Kaewleamthong วุฒิชัย แก้วเลี่ยมทอง
 
 # Outline
-Part 1: บทคัดย่อ (Abstract)<br>
+[Part 1](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-1-%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%A2%E0%B9%88%E0%B8%AD-abstract): บทคัดย่อ (Abstract)<br>
 Part 2: บทนำ (Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.1 ที่มาและความสำคัญ (background of the study)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.1 วัตถุประสงค์ (object)<br>
