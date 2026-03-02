@@ -160,7 +160,7 @@
 ### 3.2.1 จังหวัดที่คนไปมากที่สุด
 #### (1) ต่างชาติ
 <p><p align="center">
-<img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/3.2_top_10.png" />
+<img width="1498" height="994" alt="Top 10 provinces from foreign visitor 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/3.2_top_10.png" />
 ภาพที่ 3.2.1: 10 จังหวัดแรกที่มีนักท่องเที่ยวต่างชาติสูงสุด เทียบรายได้จากนักท่องเที่ยวต่างชาติและค่าใช้จ่ายต่อหัวของจังหวัดนั้นๆ ปี พ.ศ. 2568
 </p><br>
 
@@ -239,19 +239,19 @@
 #### (2) คนไทย
 > 10 จังหวัดแรกที่นักท่องเที่ยวไทยไปเยอะที่สุด ส่วนใหญ่เป็น “เมืองหลัก”
 <p><p align="center">
-<img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_1.png" />
+<img width="1498" height="994" alt="Thai visitor 2025-1" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_1.png" />
 ภาพที่ 3.2.2: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 1
 </p><br>
 <p><p align="center">
-<img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_2.png" />
+<img width="1498" height="994" alt="Thai visitor 2025-2" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_2.png" />
 ภาพที่ 3.2.3: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 2
 </p><br>
 <p><p align="center">
-<img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_3.png" />
+<img width="1498" height="994" alt="Thai visitor 2025-3" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_3.png" />
 ภาพที่ 3.2.4: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 3
 </p><br>
 <p><p align="center">
-<img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/Tree_diagram.png" />
+<img width="1498" height="994" alt="Bar of Tree-Diagram 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/Tree_diagram.png" />
 ภาพที่ 3.2.5: กราฟแสดงลำดับจังหวัดของจำนวนนักท่องเที่ยวชาวไทยและรายได้ ปี พ.ศ. 2568
 </p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;ภาพที่ 3.2.2 สะท้อนให้เห็นว่าเมืองหลักหลายจังหวัด เช่น ชลบุรี กาญจนบุรี ประจวบคีรีขันธ์ เพชรบุรี พระนครศรีอยุธยา และนครราชสีมา เป็นจุดหมายปลายทางยอดนิยมของนักท่องเที่ยวไทย โดยมีจุดแข็งด้านการเข้าถึงง่าย เหมาะกับการท่องเที่ยวระยะสั้น และรองรับพฤติกรรม “Weekend / One-day Trip” ได้อย่างชัดเจน 
@@ -265,8 +265,8 @@
 
 ## 3.3 ระยะเวลา และ ค่าใช้จ่ายต่อวัน
 <p><p align="center">
-<img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/3.3.1.png" />
-ภาพที่ 3.2: จังหวัดที่มีสมรรถนะโดดเด่นเชิงสถิติในตลาดนักท่องเที่ยวต่างชาติ ปี พ.ศ. 2568
+<img width="1498" height="994" alt="relation of duration spending and arrival 2024" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/3.3.1.png" />
+ภาพที่ 3.3: กราฟความสัมพันธ์ระหว่างระยะเวลาในการพัก การใช้จ่าย และจำนวนนักท่องเที่่ยวต่างชาติ ปี พ.ศ. 2567
 </p><br>
 
 > (1) เยอรมัน: ครองแชมป์ที่ว่าเป็นประเทศยุโรปที่มาเที่ยวไทยเยอะที่สุดติดกัน 2 สมัย
@@ -365,7 +365,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;ดังนั้น ภาพนี้จึงเป็นหลักฐานเชิงโครงสร้าง (structural evidence) ที่ยืนยันว่า จีนเป็นตลาดหลักด้านรายได้ของอุตสาหกรรมท่องเที่ยวไทยอย่างแท้จริง และมีบทบาทเป็นแรงขับเคลื่อนสำคัญต่อรายได้รวมของประเทศในระยะยาว
 
 ---
-#### (4) ช่วงโควิด 19 จีงยังที่ 1 อยู่มั้ย?
+#### (4) ช่วงโควิด 19 จีนยังที่ 1 อยู่มั้ย?
 <p><p align="center">
 <img width="1498" height="994" alt="Overview of region 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/3.4.2.4.png" />
 ภาพที่ 3.2: จังหวัดที่มีสมรรถนะโดดเด่นเชิงสถิติในตลาดนักท่องเที่ยวต่างชาติ ปี พ.ศ. 2568
