@@ -454,7 +454,7 @@ Nation. (16 กรกฎาคม 2568). เชียงใหม่ติดอ
 
 PPTV. (17 กรกฎาคม 2568). “เชียงใหม่” คว้าอันดับ 1 เมืองที่ดีที่สุดในเอเชีย และยังเป็นอันดับ 2 ของโลก. https://www.pptvhd36.com/wealth/trick-trend/252835
 
-Reported Journey. (21 กุมภาพันธ์ 2569). ภูเก็ตไม่ได้สร้างให้คนภูเก็ตอีกต่อไป. Facebook. https://www.facebook.com/100044184738486/posts/pfbid0VF4nt2msnuBHmUK1SQam2GGpauY2e5yBDc91HpYEdJ3LzVPnw1njv6ZzQtERGqql/?
+Reported Journey. (21 กุมภาพันธ์ 2569). ภูเก็ตไม่ได้สร้างให้คนภูเก็ตอีกต่อไป. Facebook. https://www.facebook.com/100044184738486/posts/pfbid0VF4nt2msnuBHmUK1SQam2GGpauY2e5yBDc91HpYEdJ3LzVPnw1njv6ZzQtERGqql/
 
 Royal Thai Embassy. (2025). Bangkok Ranked Seventh Worldwide as MICE Conference Destination. https://washingtondc.thaiembassy.org/en/content/bangkok-ranked-seventh-worldwide-as-mice-conferenc
 
