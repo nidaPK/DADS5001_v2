@@ -8,12 +8,12 @@
 # Outline
 [Part 1](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-1-%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%A2%E0%B9%88%E0%B8%AD-abstract): บทคัดย่อ (Abstract)<br>
 [Part 2](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-2-%E0%B8%9A%E0%B8%97%E0%B8%99%E0%B8%B3-introduction): บทนำ (Introduction)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2.1 ที่มาและความสำคัญ (background of the study)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2.1 วัตถุประสงค์ (object)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 ที่มาและความสำคัญ (Background of the study)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 วัตถุประสงค์ (Objective)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.3 ขอบเขต (Scope)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2.4  คำถามโครงงาน (project question)<br>
-[Part 3](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-3-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-data-analysis): วิเคราะห์ข้อมูล (Data Analysis)<br>
-[Part 4](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-4-%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9C%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B8%B0-conclusion-and-recommendation): สรุปผลและข้อเสนอแนะ (conclusion and recommendation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.4  คำถามโครงงาน (Project question)<br>
+[Part 3](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-3-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-data-analysis): วิเคราะห์ข้อมูล (Data analysis)<br>
+[Part 4](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-4-%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9C%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B8%B0-conclusion-and-recommendation): สรุปผลและข้อเสนอแนะ (Conclusion and recommendation)<br>
 [Part 5](https://github.com/nidaPK/DADS5001_v2/tree/main?tab=readme-ov-file#part-5-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%A1-reference): บรรณานุกรม (Reference)
 
 # Part 1: บทคัดย่อ (Abstract)
