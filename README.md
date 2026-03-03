@@ -445,42 +445,68 @@
 
 ---
 # Part 5: บรรณานุกรม (Reference)
-การท่องเที่ยวแห่งประเทศไทย. (ม.ป.ป.). หนองคาย. https://www.tourismthailand.org/Destinations/Provinces/Nong-Khai/582
+การท่องเที่ยวแห่งประเทศไทย. (ม.ป.ป.). หนองคาย. https://www.tourismthailand.org/Destinations/Provinces/Nong-Khai/582?utm_source=chatgpt.com
 
-กรมประชาสัมพันธ์. (18 กุมภาพันธ์ 2568). รัฐบาลพัฒนาสงขลาให้เป็นศูย์กลางการท่องเที่ยวทางทะเล. https://thailand.prd.go.th/en/content/category/detail/id/48/iid/366061
+การท่องเที่ยวแห่งประเทศไทย. (ม.ป.ป.). แม่ฮ่องสอน. https://www.tourismthailand.org/Destinations/Provinces/Mae-Hong-Son/106?utm_source=chatgpt.com
 
-กรมประชาสัมพันธ์. (9 มิถุนายน 2568). ประเทศไทยยังคงเป็นตัวเลือกอันดับต้น ๆ ในช่วงฤดูร้อนสําหรับนักท่องเที่ยวชาวยุโรป. https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/395923
+กรมประชาสัมพันธ์. (18 กุมภาพันธ์ 2568). รัฐบาลพัฒนาสงขลาให้เป็นศูย์กลางการท่องเที่ยวทางทะเล. https://thailand.prd.go.th/en/content/category/detail/id/48/iid/366061?utm_source=chatgpt.com
+
+กรมประชาสัมพันธ์. (9 มิถุนายน 2568). ประเทศไทยยังคงเป็นตัวเลือกอันดับต้น ๆ ในช่วงฤดูร้อนสําหรับนักท่องเที่ยวชาวยุโรป. https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/395923?utm_source=chatgpt.com
 
 กรุงเทพธุรกิจ. (12 ธันวาคม 2568). เปิดสถิติท่องเที่ยว 5 อันดับ ปีงบฯ 68 'เขาใหญ่' ซิวอันดับ 1 แห่เที่ยวทะลุ 2.14 ล้านคน. https://www.bangkokbiznews.com/news/news-update/1211857
 
 กรุงเทพธุรกิจ. (10 กรกฎาคม 2568). 'ยูเนสโก' รับรอง 'พระปรางค์วัดอรุณฯ' ก้าวสู่มรดกโลก ได้ขึ้นบัญชีเบื้องต้น. https://www.bangkokbiznews.com/environment/1188885
 
+เทศบาลนครอุดรธานี. (1 มิถุนายน 2567). เวียดนามทาวน์อุดรธานี. https://www.udoncity.go.th/frontend/web/content-web/view?id=OTk2MQ==&sub_menu_id=MTIz
+
+สำนักงานจังหวัดสระแก้ว. (ม.ป.ป.). ตลาดโรงเกลือ. https://www.sakaeo.go.th/websakaeo/travel_top/detail/6/data.html
+
 ศูนย์วิจัยกสิกรไทย. (6 มีนาคม 2568). ตลาดนักท่องเที่ยวอิสราเอลในไทยโตต่อเนื่อง คาดปี 2568 เพิ่มขึ้น 25% แตะ 3.5 แสนคน. https://www.kasikornresearch.com/th/analysis/k-social-media/Pages/Israel-Tourism-CIS3569-FB-06-03-25.aspx
 
 ราชกิจจานุเบกษา. (18 กรกฎาคม 2564). ข้อกำหนดออกตามความในมาตรา ๙ แห่งพระราชกำหนดการบริหารราชการในสถานการณ์ฉุกเฉิน พ.ศ. ๒๕๔๘ (ฉบับที่ ๒๘). https://www.ratchakitcha.soc.go.th/DATA/PDF/2564/E/160/T_0001.PDF
 
+รู้ใจ. (2567). ส่อง 7 ทะเลที่สวยที่สุดในไทย สถานที่ท่องเที่ยวไทยรางวัลระดับโลก. https://www.roojai.com/article/lifestyle/most-beautiful-sea-in-thailand/
+
 หอสมุดรัฐสภา. (ม.ป.ป.). มาตรการปิดเมือง (Lockdown) กับการควบคุมโรคโควิด 19 ในประเทศไทย. https://library.parliament.go.th/th/radioscript-rr2565-jan3
 
-อุทยานแห่งชาติเขาใหญ่. (n.d.). Khao Yai national park. https://tontantravel.com/en/info/khao-yai-national-park
+อุทยานแห่งชาติเขาใหญ่. (n.d.). Khao Yai national park. https://tontantravel.com/en/info/khao-yai-national-park?utm_source=chatgpt.com
+
+อีสานอินไซต์. (ม.ป.ป.). อุดรธานี ศักยภาพเกินเมืองรอง ดึงดูดผู้เยี่ยมเยือนเกือบ 5 ล้านคน พร้อมครองแชมป์รายได้จากชาวต่างชาติสูงสุดในภาคอีสาน. https://isaninsight.kku.ac.th/archives/8538
+
+องค์การบริหารการพัฒนาพื้นที่พิเศษ เพื่อการท่องเที่ยวอย่างยั่งยืน. (26 กันยายน 2567). สัมผัสปอดกรุงเทพฯ ณ คุ้งบางกะเจ้า. https://www.dasta.or.th/th/article/4336
+
+องค์การบริหารการพัฒนาพื้นที่พิเศษ เพื่อการท่องเที่ยวอย่างยั่งยืน. (30 กันยายน 2568). สุดปลื้ม! อพท.ส่งสุโขทัยคว้ารางวัล Green Destinations Gold Awards หนึ่งเดียวของไทยปีนี้ พร้อม 5 แหล่งท่องเที่ยวขึ้นแท่น 100 แหล่งท่องเที่ยวยั่งยืนโลก. https://www.dasta.or.th/th/article/6033
+
+อปท.นิวส์. (1 กุมภาพันธ์ 2567). พิษณุโลกโกย 10,000 ล้าน ยอดนักท่องเที่ยวทะลุสถิติเดิม. https://www.opt-news.com/news/40699?utm_source=chatgpt.com
+
+Anonymous. (ม.ป.ป.). ปัจจัยที่มีอิทธิพลต่อความพึงพอใจของนักท่องเที่ยวคุ้งบางกระเจ้า. สถาบันรัชต์ภาคย์. https://is.rajapark.ac.th/assets/uploads/20180912123258ปัจจัยที่มีอิทธิพลต่อความพึงพอใจของนักท่องเที่ยวคุ้งบางกะเจ้า.pdf
 
 bangkokpost. (2025). It’s looking sunnier in Songkhla. https://www.bangkokpost.com/life/travel/797516/it-looking-sunnier-in-songkhla
+
+Forbes Thailand. (6 มกราคม 2569). agoda เผย ที่เที่ยวมาแรงในไทยปี 69 'เกาะช้าง' เป็นดาวรุ่งอันดับ 1 ที่ต่างชาตินิยมมากขึ้น ด้านคนไทยนิยม 'เกาะเกร็ด' เพราะมีกิจกรรมครบครัน. https://www.forbesthailand.com/news/travel/agoda-reveals-that-koh-chang-is-becoming-more-popular-with-foreign-tourists-while-koh-kret-is-more-favored-by-thais
 
 khaosodenglish. (2025). PAI: A SMALL TOWN OF HAPPINESS – A MUST FOR TRAVELERS. https://www.khaosodenglish.com/tourism/2025/03/03/pai-a-small-town-of-happiness-a-must-for-travelers/
 
 Nation. (16 กรกฎาคม 2568). เชียงใหม่ติดอันดับเมืองที่ดีที่สุดในเอเชียในปี 2025. https://www.nationthailand.com/blogs/life/travel/40052615
 
+NationThailand. (1 กุมภาพันธ์ 2567). จังหวัดพิษณุโลกทํารายได้จากการท่องเที่ยว 10 พันล้านในปี 2566. https://www.nationthailand.com/thailand/tourism/40035207
+
 PPTV. (17 กรกฎาคม 2568). “เชียงใหม่” คว้าอันดับ 1 เมืองที่ดีที่สุดในเอเชีย และยังเป็นอันดับ 2 ของโลก. https://www.pptvhd36.com/wealth/trick-trend/252835
 
-Reported Journey. (21 กุมภาพันธ์ 2569). ภูเก็ตไม่ได้สร้างให้คนภูเก็ตอีกต่อไป. Facebook. https://www.facebook.com/100044184738486/posts/pfbid0VF4nt2msnuBHmUK1SQam2GGpauY2e5yBDc91HpYEdJ3LzVPnw1njv6ZzQtERGqql/
+Reported Journey. (21 กุมภาพันธ์ 2569). ภูเก็ตไม่ได้สร้างให้คนภูเก็ตอีกต่อไป. Facebook. https://www.facebook.com/100044184738486/posts/pfbid0VF4nt2msnuBHmUK1SQam2GGpauY2e5yBDc91HpYEdJ3LzVPnw1njv6ZzQtERGqql/?
 
-Royal Thai Embassy. (2025). Bangkok Ranked Seventh Worldwide as MICE Conference Destination. https://washingtondc.thaiembassy.org/en/content/bangkok-ranked-seventh-worldwide-as-mice-conferenc
+Royal Thai Embassy. (2025). Bangkok Ranked Seventh Worldwide as MICE Conference Destination. https://washingtondc.thaiembassy.org/en/content/bangkok-ranked-seventh-worldwide-as-mice-conferenc?cate=64c93aa8fd9aa70789629292&utm_source=chatgpt.com 
 
 ThaiPBS. (18 กุมภาพันธ์ 2568). กางข้อมูล "คนอิสราเอล" ในไทย พบปี 67 เข้าไทยกว่า 2.8 แสนคน. https://www.thaipbs.or.th/news/content/349389
 
 ThaiPBS. (19 กุมภาพันธ์ 2568). เบื้องหลังปัญหา "อิสราเอลยึดปาย" เสียงสะท้อนคนพื้นที่ต้องเผชิญ. https://www.thaipbs.or.th/news/content/349436
 
-tripadvisor. (2026). Shopping in Bangkok. https://www.tripadvisor.com/Attractions-g293916-Activities-c26-Bangkok.html
+ThaiPBS. (18 ธันวาคม 2568). ภูลมโลสวยสะกด! นางพญาเสือโคร่งบานแล้ว พร้อมอวดความงาม 20 ธ.ค.นี้. https://www.thaipbs.or.th/news/content/500186
+
+Tripadvisor. (2026). Shopping in Bangkok. https://www.tripadvisor.com/Attractions-g293916-Activities-c26-Bangkok.html
+
+Tripadvisor. (ม.ป.ป.). สถานที่สำคัญในภูเก็ต. https://th.tripadvisor.com/Attractions-g293920-Activities-c47-Phuket.html
 
 UNESCO. (n.d.). Historic City of Ayutthaya. https://whc.unesco.org/en/list/576/
 
-ธนาคารแห่งประเทศไทย. (19 สิงหาคม 2568). เจาะความท้าทายภาคท่องเที่ยวไทย ในวันที่เริ่มอ่อนแรง. https://www.bot.or.th/th/research-and-publications/articles-and-publications/articles/article-20250819.html
+UNESCO. (n.d.). Historic Town of Sukhothai and Associated Historic Towns. https://whc.unesco.org/en/list/574/
