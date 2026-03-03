@@ -267,7 +267,7 @@
 ภาพที่ 3.2.3: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 2
 </p><br>
 <p><p align="center">
-<img width="1498" height="994" alt="Thai visitor 2025-3" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_3.png" />
+<img width="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/value_based_comparison.png" />
 ภาพที่ 3.2.4: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 3
 </p><br>
 <p><p align="center">
@@ -275,7 +275,7 @@
 ภาพที่ 3.2.5: กราฟแสดงลำดับจังหวัดของจำนวนนักท่องเที่ยวชาวไทยและรายได้ ปี พ.ศ. 2568
 </p><br>
 <p><p align="center">
-<img width="1498" height="994" alt="Bar of Tree-Diagram 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/avg_value_based_comparison%20(1).png" />
+<img width="1498" height="994" alt="Bar of Tree-Diagram 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/avg_value_based_comparison%20(2).png" />
 ภาพที่ 3.2.6: กราฟแสดงลำดับจังหวัดของจำนวนนักท่องเที่ยวชาวไทยและรายได้โดยเฉลี่ย ปี พ.ศ. 2568
 </p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;ภาพที่ 3.2.2 สะท้อนให้เห็นว่าเมืองหลักหลายจังหวัด เช่น ชลบุรี กาญจนบุรี ประจวบคีรีขันธ์ เพชรบุรี พระนครศรีอยุธยา และนครราชสีมา เป็นจุดหมายปลายทางยอดนิยมของนักท่องเที่ยวไทย โดยมีจุดแข็งด้านการเข้าถึงง่าย เหมาะกับการท่องเที่ยวระยะสั้น และรองรับพฤติกรรม “Weekend / One-day Trip” ได้อย่างชัดเจน 
