@@ -271,7 +271,7 @@
 ภาพที่ 3.2.4: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 3
 </p><br>
 <p><p align="center">
-<img width="1498" height="994" alt="Bar of Tree-Diagram 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/Tree_diagram.png" />
+<img width="1498" height="994" alt="Bar of Tree-Diagram 2025" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/value_based_comparison.png" />
 ภาพที่ 3.2.5: กราฟแสดงลำดับจังหวัดของจำนวนนักท่องเที่ยวชาวไทยและรายได้ ปี พ.ศ. 2568
 </p><br>
 <p><p align="center">
