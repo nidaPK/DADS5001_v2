@@ -277,10 +277,6 @@
 </p><br>
 <p><p align="center">
 <img width="1498" height="994" alt="Thai visitor 2025-2" src="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/main_second_3.png" />
-ภาพที่ 3.2.3: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 2
-</p><br>
-<p><p align="center">
-<img width="https://github.com/nidaPK/DADS5001_v2/blob/main/pic/value_based_comparison.png" />
 ภาพที่ 3.2.4: ลำดับจังหวัดที่มีนักท่องเที่ยวชาวไทยจากมากที่สุดไปน้อยที่สุด ปี พ.ศ. 2568 รูปที่ 3
 </p><br>
 <p><p align="center">
